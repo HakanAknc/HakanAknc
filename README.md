@@ -18,3 +18,6 @@ https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hakanaknc&show_icons=true&locale=en" alt="hakanaknc" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hakanaknc&" alt="hakanaknc" /></p>
+
+
+![snake gif](https://github.com/HakanAknc/HakanAkncE/blob/output/github-contribution-grid-snake.gif)
