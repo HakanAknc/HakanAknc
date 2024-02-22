@@ -1,5 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Hakan Akıncı</h1>
 <h3 align="center">software developer who loves software and tries to progress towards becoming a full-stack developer</h3>
