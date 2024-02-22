@@ -1,6 +1,5 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-  <iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
 </div>
 <h1 align="center">Hi 👋, I'm Hakan Akıncı</h1>
 <h3 align="center">software developer who loves software and tries to progress towards becoming a full-stack developer</h3>
