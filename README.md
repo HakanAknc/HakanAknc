@@ -4,7 +4,7 @@
   <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1qZ3MxMHd4eDR6cDhwOGNldGxhNnE0am0zYTZrYnh6NGxsempqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Hakan Akıncı</h1>
-<h3 align="center">software developer who loves software and tries to progress towards becoming a full-stack developer</h3>
+<h3 align="center">Hi, I'm Hakan, I'm a software developer who loves software and continues to progress on the path of becoming a backend developer and aims to learn new things every day.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
