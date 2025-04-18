@@ -1,6 +1,6 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
-  <img height="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1qZ3MxMHd4eDR6cDhwOGNldGxhNnE0am0zYTZrYnh6NGxsempqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Hakan Akıncı</h1>
 <h3 align="center">software developer who loves software and tries to progress towards becoming a full-stack developer</h3>
